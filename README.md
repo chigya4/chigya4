@@ -31,9 +31,9 @@
 
 ---
 
-[![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chigya4&show_icons=true&theme=onedark)](https://github.com/chigya4/github-readme-stats)
+[![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chigya4&show_icons=true&theme=dark)](https://github.com/chigya4/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chigya4&theme=dracula)](https://github.com/chigya4/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chigya4&theme=dark)](https://github.com/chigya4/github-readme-stats)
 
 [twitter]: https://twitter.com/ChiragKamat
 [linkedin]: https://www.linkedin.com/in/chiragkamat48/
